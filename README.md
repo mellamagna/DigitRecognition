@@ -1,2 +1,2 @@
-# digit-recognition
+# DigitRecognition
 Basic image classification (digit recognition) using TensorFlow
